@@ -4,7 +4,7 @@
 This is an exercise I did in Week 7 of MIT xPRO Professional Certificate In Coding: Full Stack Development With MERN course, to display my web development progress. In this exercise you have a 'Add PacMan' button and a 'Start Game' button. Click 'Add PacMan' to add as many PacMan images you'd like. Next click the 'Start Game' button to see the PacMan images start moving about the webpage at different speeds and bouncing off the page boundaries! This is a very simple yet extremely fun project to have undertaken!
 
 <h2>Installation</h2>
-N/A
+Download the files found in the repo. Drag and drop Index.html into a web browser to view.
 
 <h2>Usage</h2>
 N/A
