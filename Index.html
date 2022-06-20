@@ -1,4 +1,7 @@
 <html>
+
+<title>PacMen Factory</title>
+
 <SCRIPT>
     var pos = 0;
     const pacArray = [
@@ -24,7 +27,7 @@
         let newimg = document.createElement('img');
         newimg.style.position = 'absolute';
         newimg.src = 'PacMan1.png';
-        newimg.width = 100;
+        newimg.width = 175;
         newimg.style.left = position.x;
         newimg.style.top = position.y;
         game.appendChild(newimg);
@@ -62,10 +65,10 @@
 </SCRIPT>
 
 <body>
+    <link rel="stylesheet" href="styles.css">
     <div id='game'>
-        <button onclick='makeOne()' width='200' height='30'>Add PacMan</button>
+        <button onclick='makeOne()' width='200' height='30'>Add A PacMan</button>
         <button onclick='update()' width='200' height='30'>Start Game</button>
-
     </div>
 </body>
 
